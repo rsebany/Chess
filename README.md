@@ -93,4 +93,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-Created by [Your Name] - A chess game implementation in Java. 
+Created by Romualdo SEBANY - A chess game implementation in Java. 
